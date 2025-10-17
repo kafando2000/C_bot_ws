@@ -2,7 +2,7 @@
 #include <iostream>
 
 namespace Robot{
-
+    // device like arduino or Raspberry pi
     Device::Device(std::string device_name){
         try
         {
