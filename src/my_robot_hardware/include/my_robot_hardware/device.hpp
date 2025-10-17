@@ -2,6 +2,7 @@
 #ifndef ROBOT_DEVICE__HPP
 #define ROBOT_DEVICE__HPP
  namespace Robot{
+// Device like Raspberry Pi or Arduino
     class Device{
         public:
             Device(std::string device_name);
