@@ -5,7 +5,7 @@
 
 int main()
 {
-
+// chip lines
 int ML1_F =12;
 int ML1_B =13;
 int ML1_EN =18;
